@@ -1,0 +1,20 @@
+#container {
+    width: 300px;
+    height: 300px;
+    position: relative;
+    background-color: black;
+}
+
+#animate {
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    background-color: aquamarine;
+    border-radius: 50% ;
+}
+
+.title {
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+}
+
